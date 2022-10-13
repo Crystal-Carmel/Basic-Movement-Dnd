@@ -1,8 +1,10 @@
 {
   "resources": [
-    {"id":{"name":"Moveman","path":"objects/Moveman/Moveman.yy",},"order":0,},
-    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":0,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"obj_sadbox","path":"objects/obj_sadbox/obj_sadbox.yy",},"order":1,},
+    {"id":{"name":"obj_moveman","path":"objects/obj_moveman/obj_moveman.yy",},"order":0,},
+    {"id":{"name":"spr_moveman","path":"sprites/spr_moveman/spr_moveman.yy",},"order":0,},
+    {"id":{"name":"spr_sadbox","path":"sprites/spr_sadbox/spr_sadbox.yy",},"order":1,},
+    {"id":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},"order":0,},
   ],
   "Options": [
     {"name":"HTML5","path":"options/html5/options_html5.yy",},
@@ -19,7 +21,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

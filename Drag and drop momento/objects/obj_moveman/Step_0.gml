@@ -23,6 +23,6 @@ if(moveman_walk == 1)
 	/// @DnDVersion : 1
 	/// @DnDHash : 21690408
 	/// @DnDParent : 11DA59D1
-	/// @DnDArgument : "speed" "2"
-	image_speed = 2;
+	/// @DnDArgument : "speed" "1.7"
+	image_speed = 1.7;
 }

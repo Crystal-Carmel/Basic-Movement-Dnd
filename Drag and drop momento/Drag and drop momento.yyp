@@ -1,9 +1,13 @@
 {
   "resources": [
+    {"id":{"name":"rm_1","path":"rooms/rm_1/rm_1.yy",},"order":1,},
     {"id":{"name":"obj_sadbox","path":"objects/obj_sadbox/obj_sadbox.yy",},"order":1,},
+    {"id":{"name":"obj_roombox_main_1","path":"objects/obj_roombox_main_1/obj_roombox_main_1.yy",},"order":2,},
     {"id":{"name":"obj_moveman","path":"objects/obj_moveman/obj_moveman.yy",},"order":0,},
     {"id":{"name":"spr_moveman","path":"sprites/spr_moveman/spr_moveman.yy",},"order":0,},
+    {"id":{"name":"spr_moveman_idle","path":"sprites/spr_moveman_idle/spr_moveman_idle.yy",},"order":2,},
     {"id":{"name":"spr_sadbox","path":"sprites/spr_sadbox/spr_sadbox.yy",},"order":1,},
+    {"id":{"name":"spr_roombox","path":"sprites/spr_roombox/spr_roombox.yy",},"order":3,},
     {"id":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},"order":0,},
   ],
   "Options": [
@@ -22,6 +26,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},},
+    {"roomId":{"name":"rm_1","path":"rooms/rm_1/rm_1.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

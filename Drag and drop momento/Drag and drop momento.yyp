@@ -1,13 +1,25 @@
 {
   "resources": [
     {"id":{"name":"rm_1","path":"rooms/rm_1/rm_1.yy",},"order":1,},
+    {"id":{"name":"spr_ruined_pillar_T4","path":"sprites/spr_ruined_pillar_T4/spr_ruined_pillar_T4.yy",},"order":7,},
+    {"id":{"name":"rm_xobmoor","path":"rooms/rm_xobmoor/rm_xobmoor.yy",},"order":2,},
+    {"id":{"name":"obj_ruined_pillar_T4","path":"objects/obj_ruined_pillar_T4/obj_ruined_pillar_T4.yy",},"order":6,},
+    {"id":{"name":"spr_ruined_pillar_T2","path":"sprites/spr_ruined_pillar_T2/spr_ruined_pillar_T2.yy",},"order":5,},
+    {"id":{"name":"spr_ruined_pillar_T3","path":"sprites/spr_ruined_pillar_T3/spr_ruined_pillar_T3.yy",},"order":6,},
     {"id":{"name":"obj_sadbox","path":"objects/obj_sadbox/obj_sadbox.yy",},"order":1,},
+    {"id":{"name":"spr_xobmoor_bg","path":"sprites/spr_xobmoor_bg/spr_xobmoor_bg.yy",},"order":9,},
+    {"id":{"name":"spr_ruined_pillar_T1","path":"sprites/spr_ruined_pillar_T1/spr_ruined_pillar_T1.yy",},"order":4,},
+    {"id":{"name":"obj_ruined_pillar_T3","path":"objects/obj_ruined_pillar_T3/obj_ruined_pillar_T3.yy",},"order":5,},
+    {"id":{"name":"obj_xobmoor","path":"objects/obj_xobmoor/obj_xobmoor.yy",},"order":7,},
     {"id":{"name":"obj_roombox_main_1","path":"objects/obj_roombox_main_1/obj_roombox_main_1.yy",},"order":2,},
     {"id":{"name":"obj_moveman","path":"objects/obj_moveman/obj_moveman.yy",},"order":0,},
     {"id":{"name":"spr_moveman","path":"sprites/spr_moveman/spr_moveman.yy",},"order":0,},
     {"id":{"name":"spr_moveman_idle","path":"sprites/spr_moveman_idle/spr_moveman_idle.yy",},"order":2,},
     {"id":{"name":"spr_sadbox","path":"sprites/spr_sadbox/spr_sadbox.yy",},"order":1,},
+    {"id":{"name":"spr_xobmoor","path":"sprites/spr_xobmoor/spr_xobmoor.yy",},"order":8,},
+    {"id":{"name":"obj_ruined_pillar_T1","path":"objects/obj_ruined_pillar_T1/obj_ruined_pillar_T1.yy",},"order":3,},
     {"id":{"name":"spr_roombox","path":"sprites/spr_roombox/spr_roombox.yy",},"order":3,},
+    {"id":{"name":"obj_ruined_pillar_T2","path":"objects/obj_ruined_pillar_T2/obj_ruined_pillar_T2.yy",},"order":4,},
     {"id":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},"order":0,},
   ],
   "Options": [
@@ -27,6 +39,7 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},},
     {"roomId":{"name":"rm_1","path":"rooms/rm_1/rm_1.yy",},},
+    {"roomId":{"name":"rm_xobmoor","path":"rooms/rm_xobmoor/rm_xobmoor.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

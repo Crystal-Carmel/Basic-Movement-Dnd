@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_xobmoor",
-    "path": "sprites/spr_xobmoor/spr_xobmoor.yy",
+    "name": "spr_xobmoor_bg",
+    "path": "sprites/spr_xobmoor_bg/spr_xobmoor_bg.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,8 +21,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":true,"eventNum":4,"eventType":7,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_moveman","path":"objects/obj_moveman/obj_moveman.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":7,"eventType":7,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -31,7 +30,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_xobmoor",
+  "name": "obj_xobmoor_bg",
   "tags": [],
   "resourceType": "GMObject",
 }

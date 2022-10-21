@@ -4,6 +4,7 @@
     {"id":{"name":"spr_ruined_pillar_T4","path":"sprites/spr_ruined_pillar_T4/spr_ruined_pillar_T4.yy",},"order":7,},
     {"id":{"name":"rm_xobmoor","path":"rooms/rm_xobmoor/rm_xobmoor.yy",},"order":2,},
     {"id":{"name":"obj_ruined_pillar_T4","path":"objects/obj_ruined_pillar_T4/obj_ruined_pillar_T4.yy",},"order":6,},
+    {"id":{"name":"obj_xobmoor_bg","path":"objects/obj_xobmoor_bg/obj_xobmoor_bg.yy",},"order":8,},
     {"id":{"name":"spr_ruined_pillar_T2","path":"sprites/spr_ruined_pillar_T2/spr_ruined_pillar_T2.yy",},"order":5,},
     {"id":{"name":"spr_ruined_pillar_T3","path":"sprites/spr_ruined_pillar_T3/spr_ruined_pillar_T3.yy",},"order":6,},
     {"id":{"name":"obj_sadbox","path":"objects/obj_sadbox/obj_sadbox.yy",},"order":1,},
